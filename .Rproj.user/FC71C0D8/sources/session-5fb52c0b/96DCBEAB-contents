@@ -1,0 +1,13 @@
+Package: wlbb0
+Type: Package
+Title: wuliu
+Version: 0.1.0
+Author: bingbing
+Maintainer: The package maintainer <wuliubingbing@foxmail.com>
+Description: imput a symbol of a stock,return a plot.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    pedquant
+RoxygenNote: 7.2.3
