@@ -1,3 +1,0 @@
-??use_mit_license()
-GPL-2
-usethis::use_mit_license(copyright_holder = NULL)
